@@ -4,4 +4,4 @@ detection of golf  phase
 
 Here is a video that explains how to set up and use the application:
 
-![Video Description](https://github.com/gir-ish/Golf_Phase_Detection/blob/main/APP.mp4)
+![Video Description](https://github.com/gir-ish/Golf_Phase_Detection/blob/main/APP.gif)
