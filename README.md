@@ -47,8 +47,8 @@ Follow these steps to run the application locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/gir-ish/Golf_Phase_Detection.git
+   cd Golf_Phase_Detection
    ```
 
 2. **Install dependencies**:
