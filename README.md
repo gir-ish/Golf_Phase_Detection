@@ -91,22 +91,6 @@ Follow these steps to run the application locally:
 
 ---
 
-## Contributing 🤝
-Contributions are welcome! Here's how you can help:
-1. Fork the repository.
-2. Create a feature branch.
-3. Submit a pull request for review.
-
----
-
 ## License 📜
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
----
-
-## Contact 📧
-For questions or suggestions, reach out to:
-
-**Your Name**  
-- **Email**: your.email@example.com  
-- **GitHub**: [your_github_username](https://github.com/your_github_username)
