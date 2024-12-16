@@ -2,8 +2,9 @@
 
 ## Video Tutorial
 
-![Video Description](https://github.com/gir-ish/Golf_Phase_Detection/blob/main/ui.gif)
-
+<div align="center">
+  <img src="https://github.com/gir-ish/Golf_Phase_Detection/blob/main/ui.gif" alt="Video Description" width="800" height="600">
+</div>
 ## Overview
 This project is a **Golf Swing Phase Detection** application built using **Streamlit**, **OpenCV**, and **MediaPipe**. The application allows users to upload a golf swing video, processes it to detect different phases of the swing, and visually represents these phases along with their corresponding frames. It is designed to provide an intuitive and interactive interface for analyzing golf swings.
 
