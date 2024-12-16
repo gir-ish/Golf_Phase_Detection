@@ -21,7 +21,7 @@ This project is a **Golf Swing Phase Detection** application built using **Strea
   - **Follow Through Phase**
 - **Real-Time Progress Display** ⏳: Tracks and displays progress during video processing.
 - **Visualization** 📸: Shows the first detected frame for each phase in a clean, modern layout.
-- **Online Demo** 🚀: Try it online on Hugging Face Spaces 👉 [Golf Swing Analyzer](https://huggingface.co/spaces/your_username/golf-swing-analyzer)
+- **Online Demo** 🚀: Try it online on Hugging Face Spaces 👉 [Golf Swing Analyzer](https://huggingface.co/spaces/ggirishg/phaseDetection?logs=container)
 
 ---
 
